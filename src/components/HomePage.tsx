@@ -115,7 +115,7 @@ export function HomePage({ onNavigate }: HomePageProps) {
               <div className="w-16 h-16 bg-accent/10 rounded-full flex items-center justify-center mx-auto mb-4">
                 <Award className="w-8 h-8 text-accent" />
               </div>
-              <h3 className="text-4xl mb-2 text-accent font-['Poppins'] font-bold">15+</h3>
+              <h3 className="text-4xl mb-2 text-accent font-['Poppins'] font-bold">9+</h3>
               <p className="text-gray-600">Years of Experience</p>
             </div>
             <div className="text-center">
